@@ -4,7 +4,7 @@ import Box from "@mui/material/Box";
 
 const Home = () => {
   return (
-    <Grid container xs={12}>
+    <Grid container item xs={12}>
       <Grid item xs={6}>
         <Box
           sx={{

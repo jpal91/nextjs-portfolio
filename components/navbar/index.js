@@ -3,7 +3,7 @@ import { AppBar, Grid } from "@mui/material";
 const NavBar = () => {
   return (
     <Grid container xs={12}>
-      <AppBar></AppBar>
+      <AppBar sx={{ opacity: "90%" }}></AppBar>
     </Grid>
   );
 };
